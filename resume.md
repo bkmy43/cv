@@ -1,4 +1,4 @@
-Johnny Coder
+Ilya Vladimirskiy
 ============
 
 ----
@@ -12,17 +12,19 @@ Johnny Coder
 Education
 ---------
 
-2010-2014 (expected)
-:   **PhD, Computer Science**; Awesome University (MyTown)
+2002-2007 
+:   **Computer Science Research**; Awesome University (MyTown)
 
-    *Thesis title: Deep Learning Approaches to the Self-Awesomeness
-     Estimation Problem*
+    *Databases, Machine Learning, Data Mining*
 
-2007-2010
-:   **BSc, Computer Science and Electrical Engineering**; University of
-    HomeTown (HomeTown)
+1994-2000
+:   **Master, Applied Mathematics**; Moscow Engineering Physics
+    Institute (MEPhI), Moscow, Russia
 
-    *Minor: Awesomeology*
+    *Major: Mathematical Modelling of Financial Systems*
+
+1991-1994
+:   **High School**; Gymnasium 1543, Moscow Russia
 
 Experience
 ----------
@@ -96,5 +98,5 @@ Extra Section, Call it Whatever You Want
 
 ----
 
-> <email@example.com> • +00 (0)00 000 0000 • XX years old\
-> address - Mytown, Mycountry
+> <bkmy43@googlemail.com> • +49 (0) 176 877 577 11 • skype: ilya.vladimirskiy\
+> Fehrbellinerstr. 27, 10119 Berlin, Germany
